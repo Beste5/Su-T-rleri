@@ -1,1 +1,1 @@
-# Suç Türlri     
+# Suç Türleri Grafikllendirilmesi  
